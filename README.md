@@ -1,14 +1,14 @@
 # Book API
 
-**Partners:** [Your Name] and [Partner Name]
-**Section:** [Your Section]
+**Partners:** Raphael Matthew A. Pesebre
+**Section:** IT3E
 **Resource:** Book (fields: title, author, genre, pages)
 
 ## Setup
 
 1. Clone the repository:
 ```
-   git clone https://github.com/[your-username]/cit3102-m5-book.git
+   git clone https://github.com/pesebreraphaelmatthew-spec
    cd cit3102-m5-book
 ```
 2. Install dependencies: `composer install`
